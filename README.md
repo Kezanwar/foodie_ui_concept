@@ -1,4 +1,4 @@
-# FOODIE - A Food voucher startup who approached me to help them create some concept visuals for their business idea.
+# FOODIE - A startup who approached me to help them create some concept visuals for their business idea.
 
 Created some mobile app designs from a brief they sent me using Adobe Illustrator.
 
